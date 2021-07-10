@@ -40,8 +40,8 @@ int remain(int a,int b)
 int factorial(int a)
 {
     printf("Enter the number whose factorial you wanna find  : \n");
-    scanf("%d %d",&a);
-    int factorial=1,result;
+    scanf("%d",&a);
+    int factorial=1;
     for(int i=1;i<=a;i++)
     {
         factorial=factorial*i;
