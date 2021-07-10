@@ -1,3 +1,6 @@
+![CODE QUALITY SCORE](https://www.code-inspector.com/project/24902/score/svg)
+![CODE QUALITY SCORE](https://www.code-inspector.com/project/24902/status/svg)
+
 # MINI CALCULATOR :
 
 MINI CALCULATOR is a simple application which can be used in any departmental store, shops, cafes, children, students etc. for calculations. We can use this application to perform addition, subtraction, Multiplication, Division, Find remainder and factorial as well. 
