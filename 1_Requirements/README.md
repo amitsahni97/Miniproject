@@ -1,6 +1,6 @@
 ![CODE QUALITY SCORE](https://www.code-inspector.com/project/24902/score/svg)
 ![CODE QUALITY SCORE](https://www.code-inspector.com/project/24902/status/svg)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/edd30746feeb46e29d31c94f9b9b4c79)](https://www.codacy.com/gh/mansitardeja/Miniproject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=mansitardeja/Miniproject&amp;utm_campaign=Badge_Grade)
+![CodeFactor](https://www.codefactor.io/repository/github/mansitardeja/miniproject/badge)
 
 # MINI CALCULATOR :
 
