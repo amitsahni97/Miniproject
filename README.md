@@ -6,6 +6,18 @@
 |![CODE QUALITY SCORE](https://www.code-inspector.com/project/24902/score/svg)
 ![CODE QUALITY SCORE](https://www.code-inspector.com/project/24902/status/svg)
 ![CodeFactor](https://www.codefactor.io/repository/github/mansitardeja/miniproject/badge)|[![CI](https://github.com/mansitardeja/Miniproject/actions/workflows/cpp_check_final.yml/badge.svg)](https://github.com/mansitardeja/Miniproject/actions/workflows/cpp_check_final.yml)| [![Contribution Check - Git Inspector](https://github.com/mansitardeja/Miniproject/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/mansitardeja/Miniproject/actions/workflows/git_inspector.yml)|
+## Contribution List
+SF ID|	Name	Features|	Number of test cases
+-----|-------------------|-------------------------------
+313262	|Mansi Tardeja | Listed in the feautres table
+
+
+## Features Table
+Sr. No.	|Features
+---------|------------
+1|	Functions with accuracy and speed
+2|	Quick results at the tips of fingers
+3|	User-friendly
 
 
 ## Folder Structure 
